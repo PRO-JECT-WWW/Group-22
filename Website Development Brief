@@ -1,5 +1,6 @@
 
 Brief Description of the site.
+_______________________________
     The website is a review-aggregaton website. Where individuals/interested parties can log in and like, comment and also criticize movies, series
 of their choice. 
 
@@ -7,26 +8,41 @@ of their choice.
 
   
 Project Overview.
+_________________
       The project is to improve on the features of most review-aggreagation websites. These features include:
            == A search functionality that makes it easy for users to find movies by Title, Genre or Director of the movie.
            == Making it more user-friendly  and allowing users to search for movies by criteria.
 
 
 The Project's Goals.
+____________________
            == 
 
-Features to include: 
+Features to include:
+____________________
            == ability to like movies.
            == ability to dislike movies.
            == ability to rate movies.
            == comment on the different movies.
            == Track movies that users have seen.
            == add a watchlist a user can use to keep track of their entertainment of movies/ series.
-           == 
+           ==
+
+Movie / Serie Genres to include on the site:
+____________________________________________
+           == Action, Adventure, Animations, Arthouse
+           == Comedy
+           == Drama, Documentary.
+           == Horror
+           == Mystery, Musicals.
+           == Romance 
+           == Science fiction, Short Films, Superhero.
+           == Thrillers.
+           == War, Western
 
 
-
-The target audience for the website
+The target audience for the website.
+____________________________________
            == Movie lovers: People that enjoy watching movies and want to find out what other people think of them.
                             They may be interested in reviews from critics, audience members or both.
 
@@ -44,6 +60,7 @@ The target audience for the website
 
 
 Content to be included on the site.
+___________________________________
            == Synopsis: A brief summary of the movies plot.
            == Cast and Crew: A list of the actors, directors and other creative personnel involved in the movie.
            == Trailers: Links to trailers for the movie.
@@ -51,6 +68,7 @@ Content to be included on the site.
 
 
 How to beat the competitors.
+____________________________
            == Improve the search functionality:
               Review-aggreagation websites e.g Rotten Tomatoes' search functionality is not good. By that i mean;
                   + It is difficult to find movies by Title, Genre or director.
@@ -73,7 +91,9 @@ How to beat the competitors.
            == Improve the accuracy of the ratings.
                   + Try using a more rigorous methodology by using a different criteria.
 
+        *********************************************************************************************************
           **suggestions for a more rigorous methodology for a review-aggregation about improving the ratings.
+        *********************************************************************************************************
 
            == Use a wider range of critics. Since RottenTomatoes only uses Professional critics.(which we dont want) We should be able to involve everyone Including but not limited to:
                   + Professional Critics 
