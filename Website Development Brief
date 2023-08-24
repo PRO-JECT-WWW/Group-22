@@ -1,4 +1,6 @@
+                                        ==========
                                         PROJECT-22
+                                        ==========
 Brief Description of the site.
 _______________________________
     The website is a review-aggregaton website. Where individuals/interested parties can log in and like, comment and also criticize movies, series
@@ -104,6 +106,21 @@ ____________________________
  
 
 Design Requirements and Specifications.
-            == 
+_______________________________________
+
+            == HTML: This markup language will be utilized for creating webpages for the structure and outline.
+
+            == CSS:  Cascading Style Sheets will be used to control the appearance of the site.
+
+            == JavaScript: Will be utilized to add interactivity to the website.
+                           To create features such as the ability to rate movies and to leave comments.
+
+            == Python: A general-purpose programming language that comes with a large-library of modules that can be used for a variety of tasks.
+
+            == Flask: A micro framework for python, which is lightweight and flexible.
+
+            == Django: Is a full-stack framework for python that is scalable and secure. 
+                       It is recommended for this particulart project because a large volume of traffic needs to be handled and also keep security of the site in check.
+
 Time-line for the website.
 Hosting and Maintenance.
