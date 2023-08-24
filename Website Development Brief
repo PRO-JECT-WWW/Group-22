@@ -122,5 +122,9 @@ _______________________________________
             == Django: Is a full-stack framework for python that is scalable and secure. 
                        It is recommended for this particulart project because a large volume of traffic needs to be handled and also keep security of the site in check.
 
+            == Mysql: That is if we are going to be scrapping the information and only keeping links but not hard images or videos.
+
+            == MongoDB: This is advised for use only if large volumes of data are to be stored.
+
 Time-line for the website.
 Hosting and Maintenance.
