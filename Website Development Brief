@@ -1,9 +1,89 @@
+
 Brief Description of the site.
-Project Overview
-Define the Project's Goals.
+    The website is a review-aggregaton website. Where individuals/interested parties can log in and like, comment and also criticize movies, series
+of their choice. 
+
+
+
+  
+Project Overview.
+      The project is to improve on the features of most review-aggreagation websites. These features include:
+           == A search functionality that makes it easy for users to find movies by Title, Genre or Director of the movie.
+           == Making it more user-friendly  and allowing users to search for movies by criteria.
+
+
+The Project's Goals.
+           == 
+
+Features to include: 
+           == ability to like movies.
+           == ability to dislike movies.
+           == ability to rate movies.
+           == comment on the different movies.
+           == Track movies that users have seen.
+           == add a watchlist a user can use to keep track of their entertainment of movies/ series.
+           == 
+
+
+
 The target audience for the website
+           == Movie lovers: People that enjoy watching movies and want to find out what other people think of them.
+                            They may be interested in reviews from critics, audience members or both.
+
+           == Critics: These are people who paid to watch and review movies.
+                       They may be interested in finding other crtic's reviews to help them form their own opinions.
+
+           == Filmmakers: These are individuals who make movies.
+                          They maybe interested in reading reviews of their own movies or of other movies to learn from them.
+
+           == Students: These individuals could be studying film or other related fields.
+                        They may be interested in reading reviews to learn more about different movies and filmmakers.
+
+           == General Audience: These people who are interested in movies but may not have alot of time to read reviews.
+                                They maybe interested in a website that aggregates reviews in a concise and easy to understand way.
+
+
 Content to be included on the site.
-What the competitors are missing.
+           == Synopsis: A brief summary of the movies plot.
+           == Cast and Crew: A list of the actors, directors and other creative personnel involved in the movie.
+           == Trailers: Links to trailers for the movie.
+           == Critics' quotes: A selection of quotes from reviews from audience members who have seen the movie.
+
+
+How to beat the competitors.
+           == Improve the search functionality:
+              Review-aggreagation websites e.g Rotten Tomatoes' search functionality is not good. By that i mean;
+                  + It is difficult to find movies by Title, Genre or director.
+                    ( Improving the search functionality by making it more user-friendly and allowing users to search for movies by more criteria)
+
+           == Add more features for users.
+                  + Ability to create a watchlist.
+                  + Track movies that they have seen.
+                  + Share their thoughts on movies with other users.
+
+           == Make the Website more mobile-friendly.
+                  + Making the website easier to navigate with mobile phones.
+                  + Making the text and images larger.
+
+           == Add more content.
+                  + Such as interviews with actors and directors.
+                  + Behind the scenes footage.
+                  + Trailers for upcoming movies.( Even links to youtube will be fine) But better if all is done on the site.
+
+           == Improve the accuracy of the ratings.
+                  + Try using a more rigorous methodology by using a different criteria.
+
+          **suggestions for a more rigorous methodology for a review-aggregation about improving the ratings.
+
+           == Use a wider range of critics. Since RottenTomatoes only uses Professional critics.(which we dont want) We should be able to involve everyone Including but not limited to:
+                  + Professional Critics 
+                  + Smaller Publications 
+                  + Even those that specialize in different genres of film.
+
+
+ 
+
 Design Requirements and Specifications.
+            == 
 Time-line for the website.
 Hosting and Maintenance.
