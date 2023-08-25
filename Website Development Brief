@@ -126,5 +126,36 @@ _______________________________________
 
             == MongoDB: This is advised for use only if large volumes of data are to be stored.
 
+
+HomePage (What should be on the HomePage)
+_________
+
+      header
+      ______
+            == tabs ( logo, Movies, Series, ) 
+            == searchbar( for searching through the different data on the site)
+            == watchlist (+, this is the symbol)
+
+            Movies ( Drop down to view all the available movies )
+                    + tabs required
+                      _____________
+                            - movies in theatres.
+                            - movies to watch at home.
+                            - coming soon.
+            Series ( Drop down to view all the available series )
+
+      body
+      ____
+            == 
+
+
+      footer
+      _______
+            links to have
+            == social media links ( facebook, twitter, instagram, pinterest, youtube) 
+            == help
+            == about
+            == copyright sign
+
 Time-line for the website.
 Hosting and Maintenance.
