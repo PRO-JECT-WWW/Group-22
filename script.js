@@ -1,6 +1,6 @@
 const APILINK = 'https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=c4c28d435bdfa52937c24ae9cb3961bd&page=1';
 const IMG_PATH = 'https://image.tmdb.org/t/p/w1280';
-const SEARCHAPI = "https://api.themoviedb.org/3/search/movie? &api_key=c4c28d435bdfa52937c24ae9cb3961bd&query=1";
+const SEARCHAPI = "https://api.themoviedb.org/3/search/movie? &api_key=c4c28d435bdfa52937c24ae9cb3961bd&query=";
 
 const main = document.getElementById("section");
 const form = document.getElementById("form");
@@ -32,7 +32,7 @@ function returnMovies(url) {
             const center = document.createElement('center');
             
 
-            title.innerHTML = '${element.title}';
+            title.innerHTML = `${element.title}`;
             image.src = IMG_PATH + element.poster_path;
 
             center.appendChild(image);
