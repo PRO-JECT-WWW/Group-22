@@ -53,11 +53,11 @@ form.addEventListener("submit", (e) => {
     e.preventDefault();
     main.innerHTML = '';
 
-    const searchItem = search.ariaValueMax;
+    const searchItem = search.value;
 
     if (searchItem) {
         returnMovies(SEARCHAPI + searchItem);
-        search.ariaValueMax = "";
+        search.value = "";
 
     }
 
